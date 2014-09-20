@@ -19,3 +19,4 @@ http://goo.gl/WT3pZF
 
 ##Mecabインストール
 * http://goo.gl/csrLOZ
+* http://goo.gl/TST0pD
