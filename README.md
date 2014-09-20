@@ -16,3 +16,6 @@ http://goo.gl/WT3pZF
   
 ##マークダウン記法  
 * http://goo.gl/oM7izg  
+
+##Mecabインストール
+* http://goo.gl/csrLOZ
