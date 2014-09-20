@@ -5,5 +5,5 @@ export LSCOLORS=DxGxcxdxCxegedabagacad
 
 #alias
 alias ls="ls -G"
-
+alias ll="ls -ahl"
 
