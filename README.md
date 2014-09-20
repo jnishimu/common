@@ -19,4 +19,4 @@ http://goo.gl/WT3pZF
 
 ##Mecabインストール
 * http://goo.gl/csrLOZ
-* http://goo.gl/TST0pD
+* http://kawa.at.webry.info/201110/article_2.html 
